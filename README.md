@@ -6,22 +6,7 @@
 
 
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
-
-
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-2.12-EE4C2C?style=flat-square&logo=pytorch)
-
-
-
-
-![Streamlit](https://img.shields.io/badge/Streamlit-1.58-FF4B4B?style=flat-square&logo=streamlit)
-
-
-
-
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)![PyTorch](https://img.shields.io/badge/PyTorch-2.12-EE4C2C?style=flat-square&logo=pytorch)![Streamlit](https://img.shields.io/badge/Streamlit-1.58-FF4B4B?style=flat-square&logo=streamlit)![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 
 
